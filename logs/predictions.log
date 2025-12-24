@@ -1,0 +1,29 @@
+2025-12-25 00:08:40,110 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-25 00:08:40,111 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-25 00:08:40,147 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-25 00:08:42,243 - WARNING -  * Debugger is active!
+2025-12-25 00:08:42,248 - INFO -  * Debugger PIN: 510-270-436
+2025-12-25 00:10:02,289 - INFO - 127.0.0.1 - - [25/Dec/2025 00:10:02] "GET / HTTP/1.1" 200 -
+2025-12-25 00:10:02,642 - INFO - 127.0.0.1 - - [25/Dec/2025 00:10:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-25 00:14:04,890 - INFO - 127.0.0.1 - - [25/Dec/2025 00:14:04] "[35m[1mPOST /train HTTP/1.1[0m" 500 -
+2025-12-25 00:16:26,079 - INFO - 127.0.0.1 - - [25/Dec/2025 00:16:26] "[35m[1mPOST /train HTTP/1.1[0m" 500 -
+2025-12-25 00:16:26,115 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\api\\app.py', reloading
+2025-12-25 00:16:26,128 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\api\\app.py', reloading
+2025-12-25 00:16:26,128 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\api\\app.py', reloading
+2025-12-25 00:16:27,420 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-25 00:16:30,349 - WARNING -  * Debugger is active!
+2025-12-25 00:16:30,355 - INFO -  * Debugger PIN: 510-270-436
+2025-12-25 00:18:01,624 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\src\\model.py', reloading
+2025-12-25 00:18:01,624 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\src\\model.py', reloading
+2025-12-25 00:18:01,625 - INFO -  * Detected change in 'C:\\Users\\Ahmed\\Desktop\\3-ai-workflow-capstone-master\\ai-workflow-capstone-master\\src\\model.py', reloading
+2025-12-25 00:18:01,951 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-25 00:18:04,151 - WARNING -  * Debugger is active!
+2025-12-25 00:18:04,156 - INFO -  * Debugger PIN: 510-270-436
+2025-12-25 00:18:27,396 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-25 00:18:27,397 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-25 00:18:27,406 - INFO -  * Restarting with watchdog (windowsapi)
+2025-12-25 00:18:29,729 - WARNING -  * Debugger is active!
+2025-12-25 00:18:29,735 - INFO -  * Debugger PIN: 510-270-436
+2025-12-25 00:18:44,235 - INFO - 127.0.0.1 - - [25/Dec/2025 00:18:44] "POST /train HTTP/1.1" 200 -
